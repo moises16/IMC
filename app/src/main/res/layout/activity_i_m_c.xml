@@ -7,7 +7,7 @@
     tools:context=".IMCActivity">
 
     <TextView
-        android:id="@+id/textView2z"
+        android:id="@+id/mostrandoIMC"
         android:layout_width="129dp"
         android:layout_height="48dp"
         android:text="Seu IMC é:  "
